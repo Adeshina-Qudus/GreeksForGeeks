@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616b4153-fcb6-4ded-a7a6-0a1672b82df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/MoveAllNegativeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/SortArray0s1s2sFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +66,9 @@
       <workItem from="1700641923270" duration="28000" />
       <workItem from="1700641980772" duration="144000" />
       <workItem from="1700642169015" duration="63000" />
+      <workItem from="1700642260394" duration="64000" />
+      <workItem from="1700642349658" duration="25000" />
+      <workItem from="1700642407534" duration="23000" />
     </task>
     <servers />
   </component>
