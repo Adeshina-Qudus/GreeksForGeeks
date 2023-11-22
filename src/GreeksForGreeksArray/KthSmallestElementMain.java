@@ -1,5 +1,5 @@
-package GreeksForGreeks;
-import static GreeksForGreeks.KthSmallestElementFunction.indexOfSmallest;
+package GreeksForGreeksArray;
+import static GreeksForGreeksArray.KthSmallestElementFunction.indexOfSmallest;
 
 public class KthSmallestElementMain {
 

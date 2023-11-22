@@ -1,8 +1,8 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 
 
 import java.util.Arrays;
-import static GreeksForGreeks.SortArray0s1s2sFunction.sortArray;
+import static GreeksForGreeksArray.SortArray0s1s2sFunction.sortArray;
 
 public class SortArray0s1s2sMain {
 

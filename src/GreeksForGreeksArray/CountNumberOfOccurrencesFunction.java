@@ -1,4 +1,4 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 public class CountNumberOfOccurrencesFunction {
         public static void occurrences(int[] numbers, int occurrencesNumber) {
 

@@ -1,7 +1,7 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 
 
-import static GreeksForGreeks.CountNumberOfOccurrencesFunction.occurrences;
+import static GreeksForGreeksArray.CountNumberOfOccurrencesFunction.occurrences;
 
 public class CountNumberOfOccurrencesMain {
     public static void main(String[] args) {

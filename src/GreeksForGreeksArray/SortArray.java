@@ -1,4 +1,4 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 
 import java.util.Arrays;
 

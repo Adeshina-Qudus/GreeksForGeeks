@@ -1,7 +1,7 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 import java.util.Arrays;
 
-import static GreeksForGreeks.MinimumAndMaximumElementFunction.minimumAndMaximum;
+import static GreeksForGreeksArray.MinimumAndMaximumElementFunction.minimumAndMaximum;
 
 public class MinimumAndMaximumElementMain {
 

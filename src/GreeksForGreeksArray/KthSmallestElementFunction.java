@@ -1,4 +1,4 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 
 public class KthSmallestElementFunction {
 

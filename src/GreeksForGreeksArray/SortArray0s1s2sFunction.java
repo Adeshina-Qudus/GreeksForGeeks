@@ -1,4 +1,4 @@
-package GreeksForGreeks;
+package GreeksForGreeksArray;
 
 public class SortArray0s1s2sFunction {
     public static int[] sortArray(int[] numbers){
