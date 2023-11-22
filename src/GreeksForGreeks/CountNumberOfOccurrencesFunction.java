@@ -1,7 +1,5 @@
 package GreeksForGreeks;
-
-
-    public class CountNumberOfOccurrencesFunction {
+public class CountNumberOfOccurrencesFunction {
         public static void occurrences(int[] numbers, int occurrencesNumber) {
 
             int counter = 0;
