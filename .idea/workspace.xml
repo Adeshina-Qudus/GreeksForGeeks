@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616b4153-fcb6-4ded-a7a6-0a1672b82df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/KthSmallestElementFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/KthSmallestElementMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/MinimumAndMaximumElementFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreeksForGreeks/MoveAllNegativeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreeksForGreeks/CountNumberOfOccurrencesFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreeksForGreeks/CountNumberOfOccurrencesFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreeksForGreeks/CountNumberOfOccurrencesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreeksForGreeks/CountNumberOfOccurrencesMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +63,8 @@
       <workItem from="1700641821755" duration="24000" />
       <workItem from="1700641872946" duration="31000" />
       <workItem from="1700641923270" duration="28000" />
+      <workItem from="1700641980772" duration="144000" />
+      <workItem from="1700642169015" duration="63000" />
     </task>
     <servers />
   </component>
